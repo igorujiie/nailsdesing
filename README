@@ -1,0 +1,38 @@
+# Descrição do projeto
+Trata-se de um projeto para realização de agentamentos para serviços de desing de unha, inicialmente para profissionais autonomas.
+
+
+# Portifolio de serviços
+
+## Dados para agendamento:
+- Nome Cliente;
+- Telefone para Contato;
+- Data;
+- Horário;
+- Tipo de Serviço ou Pacote;
+
+## Tipos de serviço oferecidos: 
+- manicure convencional
+- pedicure convencional 
+- pacote mensal (manicure e pedicure convencionais)
+
+## Funcionalidades
+→ Recorrência de datas para pacotes com disponibilidade para alteração;</br>
+→ Verificar a possibilidade de enviar uma notificação para a cliente com um lembrete do agendamento (whatsapp ou SMS); Deixar pra incremento</br>
+→ Aplicação pode ser um link web com responsividade, permitindo que seja acessado através do computador ou celular;</br>
+→ Serviço deverá ser cadastrado pela Designer, contendo:
+
+- Nome do Serviço;
+- Duração;
+- Valor;
+
+→ Um pacote é diferente de um serviço, possibilidade de cadastrar na aplicação. Pacote = conjunto de serviços;</br>
+→ Verificar a possibilidade de incluir um expediente;</br>
+→ Funcionalidade para bloquear horários;</br>
+→ Cadastro de clientes, para quando for fazer um agendamento o campo “cliente” seja um campo de seleção. 
+## Um cliente deverá ser cadastrado pelos seguintes dados
+- Nome;
+- Telefone;
+- Data de Nascimento;
+- CPF;
+- Email.
